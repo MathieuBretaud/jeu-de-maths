@@ -1,0 +1,15 @@
+E:\projet c#\jeu_de_maths\jeu_de_maths\bin\Debug\net6.0\jeu_de_maths.exe
+E:\projet c#\jeu_de_maths\jeu_de_maths\bin\Debug\net6.0\jeu_de_maths.deps.json
+E:\projet c#\jeu_de_maths\jeu_de_maths\bin\Debug\net6.0\jeu_de_maths.runtimeconfig.json
+E:\projet c#\jeu_de_maths\jeu_de_maths\bin\Debug\net6.0\jeu_de_maths.dll
+E:\projet c#\jeu_de_maths\jeu_de_maths\bin\Debug\net6.0\jeu_de_maths.pdb
+E:\projet c#\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.csproj.AssemblyReference.cache
+E:\projet c#\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.GeneratedMSBuildEditorConfig.editorconfig
+E:\projet c#\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.AssemblyInfoInputs.cache
+E:\projet c#\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.AssemblyInfo.cs
+E:\projet c#\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.csproj.CoreCompileInputs.cache
+E:\projet c#\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.dll
+E:\projet c#\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\refint\jeu_de_maths.dll
+E:\projet c#\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.pdb
+E:\projet c#\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\jeu_de_maths.genruntimeconfig.cache
+E:\projet c#\jeu_de_maths\jeu_de_maths\obj\Debug\net6.0\ref\jeu_de_maths.dll
